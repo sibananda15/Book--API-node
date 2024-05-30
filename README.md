@@ -28,6 +28,7 @@ book-manager/
 ├── package.json
 ├── package-lock.json
 └── server.js
+
 ```
 
 ## Prerequisites
